@@ -1,0 +1,651 @@
+{
+  "users": [
+    {
+      "id": "usr_admin",
+      "email": "admin@naijahub.ng",
+      "username": "naijahub_admin",
+      "fullName": "NaijaHub System Admin",
+      "passwordHash": "e319d3743ee29b3856d45d84b997844e1efb4ea6b356ef5c20c77aca4041a9afabc65ef3160822aae6da77cbc666fac039b37a6ab6641acd7c16b7abd54a542b",
+      "salt": "43830f49324a2af7eddfa2a2d0cfb190",
+      "role": "admin",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&h=200&q=80",
+      "bio": "Official NaijaHub Platform Safety, Operations & Community Moderation.",
+      "country": "Nigeria",
+      "state": "Lagos",
+      "city": "Victoria Island",
+      "phone": "+234 802 000 0000",
+      "businessName": "NaijaHub HQ",
+      "isVerified": true,
+      "isSuspended": false,
+      "createdAt": "2026-10-12T08:13:21.878Z",
+      "updatedAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "usr_chidi",
+      "email": "chidi@africatech.ng",
+      "username": "chidi_tech",
+      "fullName": "Chidi Okonkwo",
+      "passwordHash": "81e5d5c02e49d1d42ba0fed665bdcae31a92409bfcb0b0e63463f897605e0aa23f3c84c35f639eb5c7d6156be28f4828010242ef3b029248ece7d71dccfa3f6a",
+      "salt": "2ce53b9da80a1079dbf18cdd8a32ccde",
+      "role": "business",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "bio": "Founder at Lagos Hardware Lab. Importer of certified gadgets, solar inverters & electronics.",
+      "country": "Nigeria",
+      "state": "Lagos",
+      "city": "Ikeja",
+      "phone": "+234 803 111 2233",
+      "businessName": "Lagos Tech Direct",
+      "businessCategory": "Electronics & Gadgets",
+      "isVerified": true,
+      "isSuspended": false,
+      "createdAt": "2026-10-12T08:13:21.878Z",
+      "updatedAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "usr_amina",
+      "email": "amina@bellafashion.ng",
+      "username": "amina_couture",
+      "fullName": "Amina Bello",
+      "passwordHash": "81e5d5c02e49d1d42ba0fed665bdcae31a92409bfcb0b0e63463f897605e0aa23f3c84c35f639eb5c7d6156be28f4828010242ef3b029248ece7d71dccfa3f6a",
+      "salt": "2ce53b9da80a1079dbf18cdd8a32ccde",
+      "role": "business",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&h=200&q=80",
+      "bio": "Creative Director at Bella AfroStyle. Contemporary bespoke Aso-Ebi, Senegalese caftans and ready-to-wear.",
+      "country": "Nigeria",
+      "state": "Abuja (FCT)",
+      "city": "Maitama",
+      "phone": "+234 809 444 5566",
+      "businessName": "Bella AfroStyle Couture",
+      "businessCategory": "Fashion & Tailoring",
+      "isVerified": true,
+      "isSuspended": false,
+      "createdAt": "2026-10-12T08:13:21.878Z",
+      "updatedAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "usr_emeka",
+      "email": "emeka@solarsolutions.ng",
+      "username": "emeka_solar",
+      "fullName": "Engr. Emeka Nwosu",
+      "passwordHash": "81e5d5c02e49d1d42ba0fed665bdcae31a92409bfcb0b0e63463f897605e0aa23f3c84c35f639eb5c7d6156be28f4828010242ef3b029248ece7d71dccfa3f6a",
+      "salt": "2ce53b9da80a1079dbf18cdd8a32ccde",
+      "role": "business",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&h=200&q=80",
+      "bio": "Certified Clean Energy & Electrical Engineer. Residential inverter & solar installation specialist.",
+      "country": "Nigeria",
+      "state": "Rivers",
+      "city": "Port Harcourt",
+      "phone": "+234 810 777 8899",
+      "businessName": "Apex Solar & Electric Works",
+      "businessCategory": "Solar & Electrical Engineering",
+      "isVerified": true,
+      "isSuspended": false,
+      "createdAt": "2026-10-12T08:13:21.878Z",
+      "updatedAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "usr_folake",
+      "email": "folake@naijagrow.com",
+      "username": "folake_diaspora",
+      "fullName": "Folake Adeleke",
+      "passwordHash": "81e5d5c02e49d1d42ba0fed665bdcae31a92409bfcb0b0e63463f897605e0aa23f3c84c35f639eb5c7d6156be28f4828010242ef3b029248ece7d71dccfa3f6a",
+      "salt": "2ce53b9da80a1079dbf18cdd8a32ccde",
+      "role": "user",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "bio": "Supply chain consultant connecting London & Lagos. Keen explorer of agriculture, trade, and African brands.",
+      "country": "United Kingdom",
+      "state": "London",
+      "city": "Westminster",
+      "phone": "+44 7700 900123",
+      "isVerified": true,
+      "isSuspended": false,
+      "createdAt": "2026-10-12T08:13:21.878Z",
+      "updatedAt": "2026-10-12T08:13:21.878Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "0da186def0aaf7d4be7717037581f90abf461193c4001625860326ec35f3df19",
+      "userId": "usr_admin",
+      "expiresAt": "2026-11-11T08:13:56.615Z"
+    },
+    {
+      "token": "7c09555a9310b1bfde34ed0b8e405924656a9a670b4bc6c28285a7a9c696ab85",
+      "userId": "usr_chidi",
+      "expiresAt": "2026-11-11T11:06:32.034Z"
+    },
+    {
+      "token": "bc6995959bc7ee7104742a525548c4d5e71bfd8cc364d478829f6104d0e194e2",
+      "userId": "usr_folake",
+      "expiresAt": "2026-11-11T11:06:32.145Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod_1",
+      "userId": "usr_chidi",
+      "sellerName": "Chidi Okonkwo",
+      "sellerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Apple iPhone 15 Pro Max 256GB Titanium — Clean Factory Unlocked",
+      "description": "Original Apple iPhone 15 Pro Max, Natural Titanium color, battery health 99%, factory unlocked, includes original 20W charger and silicone protective case. Fully tested with 30 days warranty.",
+      "category": "Phones & Tablets",
+      "subcategory": "Smartphones",
+      "price": 1350000,
+      "currency": "NGN",
+      "isNegotiable": true,
+      "condition": "Used - Like New",
+      "images": [
+        "/src/assets/images/market_gadgets_phones_1791791824779.jpg"
+      ],
+      "country": "Nigeria",
+      "state": "Lagos",
+      "city": "Computer Village, Ikeja",
+      "status": "available",
+      "isFeatured": true,
+      "views": 248,
+      "createdAt": "2026-10-12T03:13:22.003Z"
+    },
+    {
+      "id": "prod_2",
+      "userId": "usr_amina",
+      "sellerName": "Amina Bello",
+      "sellerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Luxury 3-Piece Agbada & Fila Set — Royal Midnight Blue Embroidered",
+      "description": "Handcrafted luxury guinea brocade fabric with detailed chest embroidery, inner buba and matching fila cap. Perfect for high-profile weddings, diplomatic events, and celebratory dinners. Available in bespoke sizes.",
+      "category": "Fashion & Clothing",
+      "subcategory": "Men's Traditional Wear",
+      "price": 185000,
+      "currency": "NGN",
+      "isNegotiable": false,
+      "condition": "Brand New",
+      "images": [
+        "/src/assets/images/market_fashion_wear_1791791836844.jpg"
+      ],
+      "country": "Nigeria",
+      "state": "Abuja (FCT)",
+      "city": "Maitama",
+      "status": "available",
+      "isFeatured": true,
+      "views": 182,
+      "createdAt": "2026-10-11T18:13:22.003Z"
+    },
+    {
+      "id": "prod_3",
+      "userId": "usr_chidi",
+      "sellerName": "Chidi Okonkwo",
+      "sellerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "5KVA Hybrid Solar Inverter System + 48V 100Ah Lithium Battery",
+      "description": "Complete backup power solution for home & office: 5KVA 48V Pure Sine Wave Inverter, built-in MPPT charge controller, paired with 5.12kWh LiFePO4 battery pack. Zero downtime.",
+      "category": "Home Appliances",
+      "subcategory": "Generators & Power Solutions",
+      "price": 2450000,
+      "currency": "NGN",
+      "isNegotiable": true,
+      "condition": "Brand New",
+      "images": [
+        "/src/assets/images/service_pro_tech_1791791847514.jpg"
+      ],
+      "country": "Nigeria",
+      "state": "Lagos",
+      "city": "Lekki Phase 1",
+      "status": "available",
+      "isFeatured": true,
+      "views": 310,
+      "createdAt": "2026-10-11T12:13:22.003Z"
+    },
+    {
+      "id": "prod_4",
+      "userId": "usr_folake",
+      "sellerName": "Folake Adeleke",
+      "sellerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Premium Raw Organic Shea Butter (Grade A) — Export Bulk Cartons",
+      "description": "Unrefined, Grade A ivory shea butter sourced directly from organic cooperatives in Niger State. Laboratory tested, free of chemicals, certified for export to UK, EU and US.",
+      "category": "Food & Groceries",
+      "subcategory": "Raw Agricultural Products",
+      "price": 75000,
+      "currency": "NGN",
+      "isNegotiable": true,
+      "condition": "Brand New",
+      "images": [
+        "/src/assets/images/hero_naijahub_hub_1791791813531.jpg"
+      ],
+      "country": "Nigeria",
+      "state": "Niger",
+      "city": "Minna",
+      "status": "available",
+      "isFeatured": false,
+      "views": 94,
+      "createdAt": "2026-10-11T04:13:22.003Z"
+    }
+  ],
+  "productFavorites": [],
+  "posts": [
+    {
+      "id": "post_1",
+      "userId": "usr_chidi",
+      "authorName": "Chidi Okonkwo",
+      "authorUsername": "chidi_tech",
+      "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "authorState": "Lagos, Nigeria",
+      "content": "Huge milestone today! We just completed shipping our first batch of verified renewable solar micro-inverters to entrepreneurs in Onitsha and Aba. Nigerian craftsmanship and tech distribution are expanding rapidly. Let us connect if you need reliable clean energy for your workshop.",
+      "images": [
+        "/src/assets/images/hero_naijahub_hub_1791791813531.jpg"
+      ],
+      "likesCount": 24,
+      "commentsCount": 6,
+      "createdAt": "2026-10-12T05:13:22.003Z"
+    },
+    {
+      "id": "post_2",
+      "userId": "usr_amina",
+      "authorName": "Amina Bello",
+      "authorUsername": "amina_couture",
+      "authorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&h=200&q=80",
+      "authorState": "Abuja, Nigeria",
+      "content": "Delivering bespoke pieces to clients across London, Toronto, and Lagos this month. The appetite for authentic Nigerian textile design on the world stage has never been higher! Thank you to everyone supporting local artisans and ethical fashion.",
+      "images": [
+        "/src/assets/images/market_fashion_wear_1791791836844.jpg"
+      ],
+      "likesCount": 38,
+      "commentsCount": 9,
+      "createdAt": "2026-10-11T23:13:22.003Z"
+    }
+  ],
+  "postLikes": [],
+  "postComments": [
+    {
+      "id": "cmt_1",
+      "postId": "post_1",
+      "userId": "usr_emeka",
+      "authorName": "Engr. Emeka Nwosu",
+      "authorAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&h=200&q=80",
+      "content": "Super proud of this accomplishment Chidi! Clean energy is the future for our industrial clusters.",
+      "createdAt": "2026-10-12T06:13:22.003Z"
+    },
+    {
+      "id": "cmt_2",
+      "postId": "post_2",
+      "userId": "usr_folake",
+      "authorName": "Folake Adeleke",
+      "authorAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "content": "The quality of the midnight blue Agbada is outstanding. London reception was fantastic!",
+      "createdAt": "2026-10-12T02:13:22.003Z"
+    }
+  ],
+  "friendRequests": [],
+  "friendships": [
+    {
+      "id": "fr_1",
+      "user1Id": "usr_chidi",
+      "user2Id": "usr_folake",
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    }
+  ],
+  "chatRooms": [
+    {
+      "id": "room_worldwide_biz",
+      "name": "Worldwide Business Chat",
+      "description": "International networking, global trade discussions, cross-border partnerships, and diaspora commerce.",
+      "category": "International Business",
+      "iconName": "Globe",
+      "memberCount": 412,
+      "isArchived": false,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "room_naija_community",
+      "name": "Nigerian Business Community",
+      "description": "Local business owners, SMEs, policy discussions, startup collaboration, and economic opportunities across Nigeria.",
+      "category": "Local Commerce",
+      "iconName": "Briefcase",
+      "memberCount": 680,
+      "isArchived": false,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "room_buy_sell",
+      "name": "Buy and Sell Worldwide",
+      "description": "Wholesale suppliers, product discoveries, buyer inquiries, flash stock updates, and trade verification.",
+      "category": "Marketplace Deals",
+      "iconName": "ShoppingBag",
+      "memberCount": 520,
+      "isArchived": false,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "room_tech_startups",
+      "name": "Technology & Startups",
+      "description": "Developers, product builders, fintech, AI innovation, software engineering, and investment leads.",
+      "category": "Technology",
+      "iconName": "Cpu",
+      "memberCount": 395,
+      "isArchived": false,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "room_jobs_career",
+      "name": "Jobs and Career Opportunities",
+      "description": "Direct hiring managers, job openings, CV reviews, career coaching, and freelance project broadcasts.",
+      "category": "Employment",
+      "iconName": "UserCheck",
+      "memberCount": 460,
+      "isArchived": false,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "room_agric_export",
+      "name": "Agriculture, Food & Export",
+      "description": "Farm gate supplies, agro-commodities, grain storage, cold chain logistics, and non-oil export standards.",
+      "category": "Agriculture & Trade",
+      "iconName": "Sprout",
+      "memberCount": 290,
+      "isArchived": false,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "room_freelancers_services",
+      "name": "Freelancers & Digital Services",
+      "description": "Graphic designers, copywriters, digital marketers, technical consultants, and project collaboration.",
+      "category": "Digital Services",
+      "iconName": "Laptop",
+      "memberCount": 310,
+      "isArchived": false,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    }
+  ],
+  "roomMessages": [
+    {
+      "id": "rmsg_1",
+      "roomId": "room_worldwide_biz",
+      "userId": "usr_folake",
+      "senderName": "Folake Adeleke",
+      "senderAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "senderRole": "user",
+      "content": "Hello everyone from London! Looking for verified exporters of dried ginger and hibiscus (Zobo) in Kano or Kaduna for UK distribution.",
+      "attachments": [],
+      "createdAt": "2026-10-12T04:13:22.003Z"
+    },
+    {
+      "id": "rmsg_2",
+      "roomId": "room_worldwide_biz",
+      "userId": "usr_chidi",
+      "senderName": "Chidi Okonkwo",
+      "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "senderRole": "business",
+      "content": "Welcome Folake! I can connect you with certified farming cooperatives with phytosanitary certificates ready for export.",
+      "attachments": [],
+      "replyToId": "rmsg_1",
+      "replyToContent": "Looking for verified exporters of dried ginger and hibiscus...",
+      "createdAt": "2026-10-12T05:13:22.003Z"
+    },
+    {
+      "id": "rmsg_3",
+      "roomId": "room_naija_community",
+      "userId": "usr_emeka",
+      "senderName": "Engr. Emeka Nwosu",
+      "senderAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&h=200&q=80",
+      "senderRole": "business",
+      "content": "Reminder for SMEs: The federal solar rebate program application window is open until Friday. Reach out if you need technical audits!",
+      "attachments": [],
+      "createdAt": "2026-10-12T02:13:22.003Z"
+    },
+    {
+      "id": "rmsg_1791803192055_sigi",
+      "roomId": "room_worldwide_biz",
+      "userId": "usr_chidi",
+      "senderName": "Chidi Okonkwo",
+      "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "senderRole": "business",
+      "content": "New stock of clean 5KVA solar inverters arriving in Lagos next Tuesday. Open for bulk export pre-orders!",
+      "attachments": [],
+      "createdAt": "2026-10-12T11:06:32.055Z"
+    },
+    {
+      "id": "rmsg_1791803192165_vrhb",
+      "roomId": "room_worldwide_biz",
+      "userId": "usr_folake",
+      "senderName": "Folake Adeleke",
+      "senderAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "senderRole": "user",
+      "content": "Please reserve 2 units for our London logistics partner. Sending you a DM now.",
+      "attachments": [],
+      "replyToId": "rmsg_1791803192055_sigi",
+      "createdAt": "2026-10-12T11:06:32.165Z"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_chidi_folake",
+      "type": "direct",
+      "participants": [
+        "usr_chidi",
+        "usr_folake"
+      ],
+      "relatedItemId": "prod_1",
+      "relatedItemType": "product",
+      "relatedItemTitle": "Apple iPhone 15 Pro Max 256GB Titanium",
+      "lastMessage": "Sounds great! I will take the package with DHL express shipping.",
+      "lastMessageAt": "2026-10-12T07:13:22.003Z",
+      "createdAt": "2026-10-11T22:13:22.003Z"
+    }
+  ],
+  "directMessages": [
+    {
+      "id": "dmsg_1",
+      "conversationId": "conv_chidi_folake",
+      "senderId": "usr_folake",
+      "senderName": "Folake Adeleke",
+      "senderAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "content": "Hi Chidi, is the iPhone 15 Pro Max still available? Can you ship to the UK or a Lagos handling agent?",
+      "attachments": [],
+      "status": "read",
+      "readBy": [
+        "usr_chidi",
+        "usr_folake"
+      ],
+      "createdAt": "2026-10-12T06:13:22.003Z"
+    },
+    {
+      "id": "dmsg_2",
+      "conversationId": "conv_chidi_folake",
+      "senderId": "usr_chidi",
+      "senderName": "Chidi Okonkwo",
+      "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "content": "Hello Folake! Yes, completely available. We can do direct dispatch via DHL Worldwide Express or hand over to your agent in Ikeja.",
+      "attachments": [],
+      "status": "read",
+      "readBy": [
+        "usr_chidi",
+        "usr_folake"
+      ],
+      "createdAt": "2026-10-12T06:43:22.003Z"
+    },
+    {
+      "id": "dmsg_3",
+      "conversationId": "conv_chidi_folake",
+      "senderId": "usr_folake",
+      "senderName": "Folake Adeleke",
+      "senderAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "content": "Sounds great! I will take the package with DHL express shipping.",
+      "attachments": [],
+      "status": "read",
+      "readBy": [
+        "usr_chidi",
+        "usr_folake"
+      ],
+      "createdAt": "2026-10-12T07:13:22.003Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job_1",
+      "employerId": "usr_chidi",
+      "employerName": "Lagos Tech Direct",
+      "employerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Senior Hardware Systems & Solar Technician",
+      "description": "We are expanding our installation teams across Lagos and Ibadan. You will oversee solar inverter sizing, battery rack assemblies, circuit balancing, and customer support audits.",
+      "category": "Engineering & Technical",
+      "employmentType": "Full-time",
+      "salaryMin": 350000,
+      "salaryMax": 500000,
+      "currency": "NGN",
+      "location": "Ikeja & Greater Lagos",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "isRemote": false,
+      "requirements": [
+        "Minimum 3 years hands-on experience in solar PV & inverters",
+        "COREN or technical diploma in Electrical Engineering",
+        "Valid driver license and safety certification"
+      ],
+      "deadline": "2026-11-30",
+      "status": "active",
+      "applicantsCount": 7,
+      "isFeatured": true,
+      "createdAt": "2026-10-10T08:13:22.003Z"
+    },
+    {
+      "id": "job_2",
+      "employerId": "usr_amina",
+      "employerName": "Bella AfroStyle Couture",
+      "employerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Master Pattern Cutter & Bespoke Tailor",
+      "description": "Seeking a seasoned pattern cutter skilled in precision luxury garment making, Aso-Ebi structured corsetry, and contemporary caftans for an international clientele.",
+      "category": "Fashion & Design",
+      "employmentType": "Full-time",
+      "salaryMin": 220000,
+      "salaryMax": 320000,
+      "currency": "NGN",
+      "location": "Maitama, Abuja",
+      "state": "Abuja (FCT)",
+      "country": "Nigeria",
+      "isRemote": false,
+      "requirements": [
+        "Extensive portfolio in bridal, traditional and contemporary fashion",
+        "Mastery of industrial embroidery machines",
+        "Keen eye for symmetry and finishing"
+      ],
+      "deadline": "2026-11-15",
+      "status": "active",
+      "applicantsCount": 4,
+      "isFeatured": true,
+      "createdAt": "2026-10-09T08:13:22.003Z"
+    },
+    {
+      "id": "job_3",
+      "employerId": "usr_admin",
+      "employerName": "NaijaHub Operations",
+      "employerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Full Stack Web & Mobile Engineer (TypeScript / React)",
+      "description": "Join the core engineering team building scalable communication and commerce pipelines for African businesses worldwide. Remote position with competitive compensation.",
+      "category": "Technology & IT",
+      "employmentType": "Remote",
+      "salaryMin": 1200000,
+      "salaryMax": 1800000,
+      "currency": "NGN",
+      "location": "Remote Worldwide / Nigeria",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "isRemote": true,
+      "requirements": [
+        "Demonstrated mastery of React 19, TypeScript, Express, WebSockets, PostgreSQL",
+        "Experience building resilient offline-first PWAs and low-bandwidth web architectures",
+        "Strong security and API design mindset"
+      ],
+      "deadline": "2026-12-01",
+      "status": "active",
+      "applicantsCount": 19,
+      "isFeatured": true,
+      "createdAt": "2026-10-08T08:13:22.003Z"
+    }
+  ],
+  "jobApplications": [],
+  "services": [
+    {
+      "id": "srv_1",
+      "providerId": "usr_emeka",
+      "providerName": "Engr. Emeka Nwosu",
+      "providerAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Solar Inverter Inspection, Maintenance & Load Auditing",
+      "category": "Electrical & Clean Energy",
+      "description": "Professional comprehensive diagnosis of existing solar installations, inverter firmware calibration, battery health restoration, wiring safety tests, and load optimization.",
+      "serviceArea": "Port Harcourt, Rivers State & South-South Region",
+      "state": "Rivers",
+      "country": "Nigeria",
+      "startingPrice": 35000,
+      "currency": "NGN",
+      "phone": "+234 810 777 8899",
+      "completedBookings": 43,
+      "rating": 4.9,
+      "reviewCount": 31,
+      "images": [
+        "/src/assets/images/service_pro_tech_1791791847514.jpg"
+      ],
+      "isVerified": true,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    },
+    {
+      "id": "srv_2",
+      "providerId": "usr_amina",
+      "providerName": "Amina Bello",
+      "providerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&h=200&q=80",
+      "title": "Custom Bridal & Event Styling Consultation",
+      "category": "Fashion & Tailoring",
+      "description": "Personalized styling sessions for brides, grooms, and high-net-worth event attendees. Includes fabric sourcing, body proportion analysis, and expedited production scheduling.",
+      "serviceArea": "Abuja, Lagos, and Global Virtual Consultations",
+      "state": "Abuja (FCT)",
+      "country": "Nigeria",
+      "startingPrice": 50000,
+      "currency": "NGN",
+      "phone": "+234 809 444 5566",
+      "completedBookings": 28,
+      "rating": 5,
+      "reviewCount": 22,
+      "images": [
+        "/src/assets/images/market_fashion_wear_1791791836844.jpg"
+      ],
+      "isVerified": true,
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    }
+  ],
+  "serviceBookings": [],
+  "serviceReviews": [
+    {
+      "id": "srev_1",
+      "serviceId": "srv_1",
+      "bookingId": "sb_seed1",
+      "customerId": "usr_folake",
+      "customerName": "Folake Adeleke",
+      "customerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80",
+      "rating": 5,
+      "comment": "Engr Emeka quickly diagnosed a loose busbar on our family compound in Port Harcourt. Honest, punctual, and highly skilled!",
+      "createdAt": "2026-10-07T08:13:22.003Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1",
+      "userId": "usr_chidi",
+      "type": "enquiry",
+      "title": "New Product Inquiry",
+      "message": "Folake Adeleke inquired about \"Apple iPhone 15 Pro Max 256GB Titanium\".",
+      "link": "/messages?conv=conv_chidi_folake",
+      "isRead": false,
+      "createdAt": "2026-10-12T06:13:22.004Z"
+    }
+  ],
+  "reports": [],
+  "auditLogs": [
+    {
+      "id": "log_1",
+      "actorId": "usr_admin",
+      "actorName": "NaijaHub System Admin",
+      "action": "PLATFORM_INITIALIZATION",
+      "targetType": "SYSTEM",
+      "targetId": "naijahub_core",
+      "details": "NaijaHub core ecosystem databases initialized with secure schema enforcement.",
+      "createdAt": "2026-10-12T08:13:21.878Z"
+    }
+  ],
+  "transactions": []
+}

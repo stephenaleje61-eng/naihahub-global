@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "NaijaHub - Nigerian & Worldwide Platform",
+  "short_name": "NaijaHub",
+  "description": "Buy and sell products, connect with people, chat, do business, find jobs, and hire local services worldwide.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F6F8F6",
+  "theme_color": "#008751",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

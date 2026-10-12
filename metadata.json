@@ -1,0 +1,6 @@
+{
+  "name": "NaijaHub",
+  "description": "All-in-one Nigerian and worldwide marketplace, social network, jobs & local services, and business connect messaging platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
